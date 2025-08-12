@@ -2,11 +2,11 @@
 
 My name is Senash, I'm a final year Data Science undergraduate interested in all things that are AI. I have a solid foundation in AI/ML concepts and experience building end-to-end ML workflows.
 
-- 🔭I’m currently working on research aimed at reducing hallucinations and inaccuracies in RAG pipelines by refining each step of the pipeline leading up to the final response.
+- 🔭 I’m currently working on research aimed at reducing hallucinations and inaccuracies in RAG pipelines by refining each step of the pipeline leading up to the final response.
 
 - 🌱 I’m currently learning about AI workflow automation (n8n, zapier etc.)
 
-- - ⚡ Fun fact: I'm an Excellent communicator! and loves teamwork.
+- ⚡ Fun fact: I'm an Excellent communicator! and loves teamwork.
 
 <!--
 **Senash0813/Senash0813** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
